@@ -5,3 +5,15 @@
 .button2{
   padding-top: 1em;
 }
+.label-lg{
+  font-size: large;
+}
+.label-sm{
+  font-size: medium;
+}
+.label-sx{
+  font-size: small;
+}
+.label-x{
+  font-size: x-small;
+}
